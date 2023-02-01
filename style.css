@@ -1,0 +1,257 @@
+body {
+    margin: 0;
+    background-color: #c0a172;
+}
+
+.top {
+    background-color: #0e0c0b;
+    padding-top: 20px;
+    position: relative;
+    height: 700px;
+    padding-top: 100px;
+    margin: 0;
+    justify-content: center;
+    text-align: center;
+}
+
+.topText {
+    color: lightgray;
+}
+
+.middle {
+    background: color #baa378;
+    justify-content: center;
+    text-align: center;
+    margin: 3%;
+}
+
+.bottom {
+    background-color: #453823;
+    margin: 0;
+    padding: 5%;
+    justify-content: center;
+    text-align: center;
+    border-top: #e5e4d7;
+    border-style: solid;
+}
+
+h2 {
+    font-family: 'Monserrat', sans-serif;
+    font-size: medium;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:x-large;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    color: aqua;
+}
+
+.fireworkSection {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    padding-top: 5%;
+    padding-bottom: 20%;
+}
+
+.section1 {
+    padding-bottom: 5%;
+    width: 60%;
+    margin: auto;
+}
+
+.section2 {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+
+.section3 {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width: 60%;
+    margin: auto;
+}
+
+.button {
+    background-color: #453823;
+    color:lightgray;
+    border-radius: 10%; 
+    padding: 10px;
+}
+
+hr {
+    border-style: groove;
+    border-color: #e5e4d7;
+}
+
+.firework1 {
+    top: 30%;
+    right: 30%;
+    padding-right: 40%;
+    padding-bottom: 10%;
+    position: absolute;
+}
+
+.firework2 {
+    top: 30%;
+    left: 70%;
+    padding-bottom: 10%;
+    position: absolute;
+}
+
+.movie {
+    position: absolute;
+    padding-top: 10%;
+    left: 0%;
+    bottom: 1%;
+    border:#e5e4d7;
+    border-radius: 0px;
+}
+
+.header {
+    width: 60%;
+    margin: auto;
+}
+
+.me {
+    position: relative;
+    border-radius: 70%;
+}
+
+.cake {
+    margin: 5%;
+    margin-top: 7%;
+    min-width: 100px;
+}
+
+.leadership {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 3%;
+}
+
+.languages {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 3%;
+}
+
+.coding {
+    margin: 0%;
+    padding-top: 4%;
+    padding-bottom: 5%;
+}
+
+.Skills {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    color: lightgray;
+    padding-bottom: 3%;
+}
+
+.dt {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+  dd {
+    margin: 0;
+    padding: 0 0 0.5em 0;
+}
+
+ul {
+    list-style-type: square;
+    padding-left: 0;
+}
+
+
+hr {
+    border-top:#453823;
+    border-radius: 5%;
+    overflow: visible;
+    text-align: center;
+    height: 3px;
+    width: 70%;
+}
+
+.Travelport {
+    margin: 0%;
+    min-width: 100px;
+    border-radius: 70%;
+}
+
+.workInfo {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    padding-right: 3%;
+}
+
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 100px;
+    background-color: #453823;
+    padding-top: 2%;
+    text-align: center;
+    max-width: 850px;
+    margin: auto;
+}
+
+.form {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 100px;
+    background-color: #453823;
+    padding-top: 2%;
+    padding-bottom: 5%;
+    text-align: center;
+    max-width: 850px;
+    margin: auto;
+    color: lightgray;
+}
+
+.cardText {
+    color: lightgray;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.copyright {
+    color:lightgray;
+}
+
+.centeredList {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.SkillsList {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    padding-right: 3%;
+}
